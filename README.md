@@ -2,7 +2,7 @@
 ---
 **Escenario:**
 
-![](escenario.png)
+![](escenario.PNG)
 
 **Ejecución:**
 
